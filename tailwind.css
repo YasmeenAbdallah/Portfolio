@@ -10193,6 +10193,10 @@ video {
   font-family: Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
 }
 
+.font-mainFont {
+  font-family: Shadows Into Light, cursive;
+}
+
 .font-hairline {
   font-weight: 100;
 }
@@ -30842,6 +30846,10 @@ video {
     font-family: Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
   }
 
+  .sm\:font-mainFont {
+    font-family: Shadows Into Light, cursive;
+  }
+
   .sm\:font-hairline {
     font-weight: 100;
   }
@@ -51424,6 +51432,10 @@ video {
 
   .md\:font-mono {
     font-family: Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+  }
+
+  .md\:font-mainFont {
+    font-family: Shadows Into Light, cursive;
   }
 
   .md\:font-hairline {
@@ -72010,6 +72022,10 @@ video {
     font-family: Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
   }
 
+  .lg\:font-mainFont {
+    font-family: Shadows Into Light, cursive;
+  }
+
   .lg\:font-hairline {
     font-weight: 100;
   }
@@ -92592,6 +92608,10 @@ video {
 
   .xl\:font-mono {
     font-family: Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+  }
+
+  .xl\:font-mainFont {
+    font-family: Shadows Into Light, cursive;
   }
 
   .xl\:font-hairline {

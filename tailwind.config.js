@@ -1,8 +1,12 @@
 module.exports = {
   purge: [],
   theme: {
-    extend: {},
+    extend: {
+      fontFamily: {
+        mainFont: ["Shadows Into Light", "cursive"],
+      },
+    },
+    variants: {},
+    plugins: [],
   },
-  variants: {},
-  plugins: [],
-}
+};
